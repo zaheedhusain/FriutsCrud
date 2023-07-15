@@ -1,0 +1,11 @@
+header {
+    background-color: #FF9900;
+    color: #FFF;
+    padding: 20px;
+    text-align: center;
+  }
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
